@@ -1,2 +1,4 @@
-# emailbomber
-Free E-mail Bomber codes! Created with PYTHON
+Email Bomber with Python!
+Created by vedatks 
+For buy more codes;
+Instagram: ilyved4t
